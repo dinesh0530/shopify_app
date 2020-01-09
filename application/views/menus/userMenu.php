@@ -1,0 +1,15 @@
+<li><a class="<?php if(isset($active) && $active=="home") echo "active"; ?>" href="<?php echo site_url('user/dashboard'); ?>">Dashboard</a></li>
+<li><a class="<?php if(isset($active) && $active=="products") echo "active"; ?>" href="<?php echo site_url('user/products'); ?>">Products</a></li>
+<li><a class="<?php if(isset($active) && $active=="mylist") echo "active"; ?>" href="<?php echo site_url('user/mylist'); ?>">My List</a></li>
+<?php 
+/*
+<li><a class="<?php if(isset($active) && $active=="dashboard") echo "active"; ?>" href="<?php echo site_url('user/dashboard'); ?>">Dashboard</a></li>
+<?php */
+?>
+
+<li><a class="<?php if(isset($active) && $active=="orders") echo "active"; ?>" href="<?php echo site_url('user/orders'); ?>">My Orders</a></li>
+<li><a class="<?php if(isset($active) && $active=="about") echo "active"; ?>">Video Training</a></li>
+<li><a class="<?php if(isset($active) && $active=="sourcing") echo "active"; ?>" href="<?php echo site_url('sourcing'); ?>"> Sourcing</a></li>
+<li><a class="<?php if(isset($active) && $active=="sourcing-list") echo "active"; ?>" href="<?php echo site_url('products-sourcing-list'); ?>"> Sourcing list</a></li>
+<li><a class="<?php if(isset($active) && $active=="contact") echo "active"; ?>" href="<?php echo site_url('user/contact-us')?>">Contact Us</a></li>
+<li><a class="<?php if(isset($active) && $active=="privacy-policy") echo "active"; ?>" href="<?php echo site_url('privacy-policy'); ?>"> Privacy Policy</a></li>

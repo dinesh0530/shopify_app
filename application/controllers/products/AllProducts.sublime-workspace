@@ -1,0 +1,352 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"add_men",
+				"add_menu_page\tWP Function"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"load",
+				"load_helper\tCI - Load Helper File"
+			],
+			[
+				"log",
+				"login_data"
+			],
+			[
+				"te",
+				"text-center"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"vali",
+				"validate"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"email",
+				"email_1"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"sit",
+				"site_url\tWP Function"
+			],
+			[
+				"form",
+				"form_close\tCI - Form Helper - Close"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/my pc/Desktop/s_jqu/test.php",
+		"/E/deepak kumar/portal_catering/14-aug-2019/application/views/admin/single_entry_view.php",
+		"/E/deepak kumar/portal_catering/14-aug-2019/application/models/___Packages_model.php",
+		"/E/deepak kumar/portal_catering/14-aug-2019/application/controllers/admin/Entries.php",
+		"/E/deepak kumar/portal_catering/14-aug-2019/application/models/Test_model.php",
+		"/E/deepak kumar/portal_catering/14-aug-2019/application/controllers/admin/Dashboard.php",
+		"/E/deepak kumar/portal_catering/14-aug-2019/application/controllers/admin/Packages.php",
+		"/E/deepak kumar/portal_catering/14-aug-2019/application/models/Admin_model.php",
+		"/E/deepak kumar/portal_catering/14-aug-2019/application/views/admin/dashboard.php",
+		"/E/deepak kumar/portal_catering/14-aug-2019/application/controllers/admin/Test.php",
+		"/E/deepak kumar/portal_catering/14-aug-2019/application/views/send_query_view.php",
+		"/E/deepak kumar/portal_catering/14-aug-2019/application/views/admin/add_package_view.php",
+		"/E/deepak kumar/portal_catering/14-aug-2019/application/controllers/Packages.php",
+		"/E/deepak kumar/portal_catering/14-aug-2019/application/views/home_view.php",
+		"/C/xampp/htdocs/portal-3d/application/config/autoload.php",
+		"/C/xampp/htdocs/portal-3d/application/controllers/staff/Appointment.php",
+		"/E/deepak kumar/kp-tracking/application/application/controllers/Agency_booking.php",
+		"/E/deepak kumar/kp-tracking/application/application/controllers/Login_user.php",
+		"/E/deepak kumar/kp-tracking/application/application/controllers/Tracking_services.php",
+		"/E/deepak kumar/kp-tracking/application/application/controllers/Hotels.php",
+		"/E/deepak kumar/kp-tracking/application/application/controllers/User.php",
+		"/E/deepak kumar/portal_catering/14-aug-2019/application/views/admin/add_package_item.php",
+		"/E/deepak kumar/portal_catering/14-aug-2019/application/controllers/Test.php",
+		"/E/deepak kumar/portal_catering/14-aug-2019/application/controllers/Home.php",
+		"/E/deepak kumar/portal_catering/14-aug-2019/application/controllers/Demo.php",
+		"/C/Users/my pc/AppData/Local/Temp/Rar$DIa7992.39275/testemail.php",
+		"/E/deepak kumar/portal_catering/13-aug-2019/application/views/admin/single_entry_view.php",
+		"/E/deepak kumar/portal_catering/13-aug-2019/application/views/emails/admin_mail.php",
+		"/E/deepak kumar/portal_catering/13-aug-2019/application/controllers/admin/Entries.php",
+		"/E/deepak kumar/portal_catering/13-aug-2019/application/helpers/my_helper.php",
+		"/C/xampp/htdocs/portal-3d/application/views/email/doctor_appointment_email.php",
+		"/C/xampp/htdocs/portal-3d/application/helpers/my_helper.php",
+		"/C/xampp/htdocs/portal-3d/application/helpers/pre_helper.php",
+		"/C/xampp/htdocs/portal-3d/application/views/management/management_appointment_list.php",
+		"/C/xampp/htdocs/portal-3d/application/controllers/management/Appointment.php",
+		"/C/xampp/htdocs/portal-3d/application/views/staff/home_staff_view.php",
+		"/C/Users/my pc/Desktop/home/dblab/admin/index.php",
+		"/C/Users/my pc/Desktop/home/dblab/admin/js/dblab-admin.js",
+		"/C/Users/my pc/Desktop/home/dblab/admin/class-dblab-admin.php",
+		"/C/Users/my pc/Desktop/home/dblab/public/class-dblab-public.php",
+		"/C/Users/my pc/Desktop/home/dblab/dblab.php",
+		"/C/Users/my pc/Desktop/home/dblab/index.php",
+		"/C/xampp/htdocs/portal-3d/application/views/staff/header_staff_view.php",
+		"/C/xampp/htdocs/portal-3d/application/views/scantech/header_scantech_view.php",
+		"/C/xampp/htdocs/portal-3d/application/views/officetech/header_officetech_view.php",
+		"/C/xampp/htdocs/portal-3d/application/views/management/header_management_view.php",
+		"/C/xampp/htdocs/portal-3d/application/views/doctor/header_doctor_view.php",
+		"/C/xampp/htdocs/portal-3d/application/views/admin/header_admin_view.php",
+		"/C/xampp/htdocs/portal-3d/application/views/management/bulk_data_view.php",
+		"/C/xampp/htdocs/portal-3d/application/models/Management_model.php",
+		"/C/xampp/htdocs/portal-3d/application/views/officetech/officetech_appointment_list.php",
+		"/C/xampp/htdocs/portal-3d/application/views/officetech/particular_appointment.php",
+		"/C/xampp/htdocs/portal-3d/application/controllers/officetech/Appointment.php",
+		"/C/xampp/htdocs/portal-3d/application/controllers/scantech/Appointment.php",
+		"/C/xampp/htdocs/portal-3d/application/views/scantech/scantech_appointment_list.php",
+		"/C/xampp/htdocs/portal-3d/application/views/scantech/particular_appointment.php",
+		"/C/xampp/htdocs/portal-3d/application/controllers/staff/Home.php",
+		"/C/Users/my pc/Desktop/scan_appointment/adult-ebook-content/ebooksale.php",
+		"/C/Users/my pc/Desktop/scan_appointment/adult-ebook-content/add_user.php",
+		"/C/xampp/htdocs/portal-3d/application/views/management/particular_appointment.php",
+		"/C/xampp/htdocs/portal-3d/application/views/scantech/scantech_referal_form_view.php",
+		"/C/xampp/htdocs/portal-3d/application/views/scantech/Refral_pdf.php",
+		"/C/xampp/htdocs/portal-3d/application/views/scantech/footer_scantech_view.php",
+		"/C/xampp/htdocs/deepak/billing_calculation/billing_calculation.php",
+		"/C/xampp/htdocs/portal-3d/application/models/Staff_model.php",
+		"/C/Users/my pc/Desktop/extra/Mark Bartiss M4 Piela.jpg",
+		"/C/xampp/htdocs/ebook/wp-content/plugins/ebook-content-sale/ebooksale.php",
+		"/C/xampp/htdocs/portal-3d/application/controllers/management/Home.php",
+		"/C/xampp/htdocs/portal-3d/application/views/management/home_management_view.php",
+		"/C/xampp/htdocs/ebook/wp-content/plugins/ebook-content-sale/views/demo.php",
+		"/C/xampp/htdocs/portal-3d/application/core/MY_Controller.php",
+		"/C/xampp/htdocs/portal-3d/application/views/scantech/appointment_scantech_view.php",
+		"/C/xampp/htdocs/portal-3d/application/views/staff/appointment_staff_view.php",
+		"/C/xampp/htdocs/ebook/wp-content/plugins/ebook-content-sale/views/custom_tabs_menu.php",
+		"/C/xampp/htdocs/ebook/wp-content/plugins/ebook-content-sale/assets/css/admin_esb.css",
+		"/C/xampp/htdocs/ebook/wp-content/plugins/ebook-content-sale/assets/js/admin_esb.js",
+		"/C/xampp/htdocs/ebook/wp-content/plugins/ebook-content-sale/assets/js/custom.js",
+		"/C/xampp/htdocs/ebook/wp-content/plugins/ebook-content-sale/assets/css/style.css",
+		"/C/Users/my pc/Desktop/home/book/mpl-publisher/views/index.php",
+		"/E/deepak kumar/wordpress_project/online book sale plugin/5-aug-2019/wp-content/plugins/ebook-content-sale/views/custom_tabs_menu.php",
+		"/C/Users/my pc/Desktop/home/book/mpl-publisher/mpl-publisher.php",
+		"/E/deepak kumar/wordpress_project/online book sale plugin/5-aug-2019/wp-content/plugins/ebook-content-sale/ebooksale.php",
+		"/C/Users/my pc/Desktop/home/book/mpl-publisher/vendor/illuminate/view/FileViewFinder.php",
+		"/E/deepak kumar/wordpress_project/online book sale plugin/5-aug-2019/wp-content/plugins/mpl-publisher/libs/PublisherBase.php",
+		"/C/Users/my pc/Desktop/home/custom-video-upload/custom_upload_video.php",
+		"/C/xampp/htdocs/portal-3d/application/views/doctor/particular_appointment.php",
+		"/C/xampp/htdocs/portal-3d/application/controllers/doctor/Appointment.php",
+		"/C/xampp/htdocs/portal-3d/application/models/Doctor_model.php",
+		"/C/xampp/htdocs/portal-3d/system/libraries/Zip.php",
+		"/C/xampp/htdocs/shoptaaa-master/application/libraries/Upload.php",
+		"/C/xampp/htdocs/portal-3d/application/config/database.php",
+		"/C/xampp/htdocs/portal-3d/.htaccess",
+		"/C/xampp/htdocs/portal-3d/application/config/config.php",
+		"/C/xampp/htdocs/portal-3d/application/controllers/Backup.php",
+		"/C/xampp/htdocs/portal-3d/application/views/doctor/doctor_appointment_list.php",
+		"/C/xampp/htdocs/portal-3d/application/controllers/Demo.php",
+		"/C/xampp/htdocs/portal-3d/application/models/Scantech_model.php",
+		"/C/xampp/htdocs/deepak/test.php",
+		"/C/Users/my pc/Desktop/text.php",
+		"/E/deepak kumar/joy_ride/app/30-july-2019/application/controllers/Cab_booking.php",
+		"/E/deepak kumar/joy_ride/app/30-july-2019/application/models/Cab_booking_model.php",
+		"/E/deepak kumar/joy_ride/joyride.txt",
+		"/C/xampp/htdocs/craft/templates/_layout.twig",
+		"/C/xampp/htdocs/craft/templates/entry/default.html",
+		"/C/xampp/htdocs/craft/templates/web.config",
+		"/C/xampp/htdocs/craft/templates/index.twig",
+		"/C/Users/my pc/Desktop/plugin/kanban-wordpress-plugin-master/kanban-wordpress-plugin-master/kanban.php",
+		"/C/Users/my pc/Desktop/1111/Wsjf/Wsjf/Plugin.php",
+		"/C/Users/my pc/Desktop/webpack-demo/webpack.parts.js",
+		"/C/xampp/htdocs/craft/public/index.php",
+		"/C/xampp/htdocs/craft/vendor/autoload.php",
+		"/C/Users/my pc/Desktop/123/webpack-demo/src/index.js",
+		"/C/xampp/htdocs/frontguardcraft3/newtest1.php",
+		"/C/xampp/htdocs/kp-tracking/config/app.php",
+		"/C/Users/my pc/Desktop/webpack/public/index.php",
+		"/C/xampp/htdocs/portal-3d/application/controllers/admin/Paytm.php",
+		"/C/xampp/htdocs/frontguardcraft3/vendor/craftcms/plugins.php",
+		"/C/xampp/htdocs/craftcms/frontguardcraft3/config/general.php",
+		"/C/xampp/htdocs/frontguardcraft3/vendor/oscarbarrett/craft-twig-webpack-extension/src/TwigWebpackExtension.php",
+		"/C/xampp/htdocs/craftcms/frontguardcraft3/public/index.php",
+		"/C/xampp/htdocs/craft/frontguardcraft3/config/db.php",
+		"/C/xampp/htdocs/frontguardcraft3/public/index.php",
+		"/C/xampp/htdocs/frontguardcraft3/config/general.php",
+		"/C/Users/my pc/Desktop/New folder (3)/ajax_upload_view.php",
+		"/C/Users/my pc/Desktop/file/2019-02-19/application/controllers/admin/Reports.php",
+		"/C/Users/my pc/Desktop/frontguardcraft3/public/index.php",
+		"/C/xampp/htdocs/frontguardcraft3/newtest.php",
+		"/C/xampp/htdocs/sanjay/frontguardcraft3/config/db.php"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/untitled.sublime-build",
+	"project": "AllProducts.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 264.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,32 @@
+.center-div{
+    background-color: #DCDCDC;
+   position: absolute;
+   width: 400px; 
+   height: 280px;
+   top: 50%;
+   left: 50%;
+   -webkit-transform: translate(-50%, -50%);
+   -moz-transform: translate(-50%, -50%);
+   -o-transform: translate(-50%, -50%);
+   -ms-transform: translate(-50%, -50%);
+   transform: translate(-50%, -50%);
+   border-radius: 10px;
+}
+
+.content{
+   margin: 0px 25px 25px 25px;
+}
+
+.alert_message{
+   margin-top: -25px; 
+   margin-bottom: -10px;
+}
+
+.url_form{
+   margin-top: -5px;
+}
+
+.input_field{
+   width: 350px;
+   border-radius: 5px;
+}

@@ -1,9 +1,0 @@
-<link rel="stylesheet" href="<?php //echo base_url("assets/css/bootstrap.min.css"); ?>" />
-<link rel="stylesheet" href="<?php echo base_url("assets/css/font-awesome.min.css"); ?>" />
-<link rel="stylesheet" href="<?php echo base_url("assets/css/jquery-ui.css"); ?>" />
-<link rel="stylesheet" href="<?php echo base_url("assets/css/product-detail-page.css"); ?>" />
-<link rel="stylesheet" href="<?php echo base_url("assets/css/jquery.simpleLens.css"); ?>" />
-<link rel="stylesheet" href="<?php echo base_url("assets/css/jquery.simpleGallery.css"); ?>" />	
-<link rel="stylesheet" href="<?php echo base_url("assets/css/style-1.css"); ?>" />
-<link rel="stylesheet" href="<?php echo base_url("assets/css/style-2.css"); ?>" />
-<link rel="stylesheet" href="<?php echo base_url("assets/css/responsive.css"); ?>" />
